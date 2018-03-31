@@ -1,0 +1,11 @@
+name: dotpicture
+main: aieuo\dotpicture
+version: 0.1
+api: [3.0.0]
+load: POSTWORLD
+author: aieuo
+commands:
+ wall:
+  description: 壁のドットの絵？
+  usage: /wall <list | create>
+  permission: op
